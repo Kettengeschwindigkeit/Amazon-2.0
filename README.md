@@ -24,9 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 Fullstack internet-shop by RedGroup (2023) - https://www.youtube.com/watch?v=7-zwvUPKYpE
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
