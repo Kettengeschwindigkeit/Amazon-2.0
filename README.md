@@ -24,7 +24,7 @@
 
 ## Description
 
-Fullstack internet-shop by RedGroup (2023) - https://www.youtube.com/watch?v=7-zwvUPKYpE
+Fullstack internet-shop (2023) by RedGroup - https://www.youtube.com/watch?v=7-zwvUPKYpE
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
